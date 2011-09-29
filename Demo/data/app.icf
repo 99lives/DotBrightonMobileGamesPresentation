@@ -1,0 +1,13 @@
+[S3E]
+
+MemSize =	   44857600
+MemSizeDebug = 44857600
+DispFixRot=1
+
+[GX] 
+DataCacheSize=640000
+VertCacheSize=100000
+UnIndexedStreamMax=16782
+NumTPages=264
+NumTPagesNoMipMap=264
+PolyBufferSize=64000

@@ -1,0 +1,23 @@
+#!/usr/bin/env mkb
+
+# files specifies all files to build
+files
+{
+	["src"]
+	(src)
+	main.cpp
+	game.cpp
+	(h)
+	game.h
+}
+
+includepaths
+{
+    h
+}
+
+subprojects
+{
+	iw2d
+	iwgx
+}
