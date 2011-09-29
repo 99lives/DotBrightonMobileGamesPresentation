@@ -4,7 +4,7 @@ http://dotbrighton28sep2011.eventbrite.com
 A simple http://www.madewithmarmalade.com/ based partcle system
 showing how to render fast hardware accelerated 2D sprites
 
-For context implements a simple veriosn of ian lobbs bunny mark
+For context implements a simple veriosn of Iain lobbs bunny mark
 http://blog.iainlobb.com/2010/11/display-list-vs-blitting-results.html
 
 which in flash was measurd at 600 bunnies @30fps on android.  included apk
